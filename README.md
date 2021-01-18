@@ -14,7 +14,9 @@ In this experiment, we propose Image Denoising neural networks using Feature Ext
 ![Layer2_Result](https://user-images.githubusercontent.com/59470033/104937397-0f15a800-59f1-11eb-9aff-3e426bf89d03.png)
 
 ## Dataset
-We used the [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) datasets for training the proposed network.   Furthermore, the datasets for testing the proposed network are BSD68 datasets and Set12 datasets.   There are other options you can choose.Please refer to dataset.py.
+We used the [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) datasets for training the proposed network.   
+Furthermore, the datasets for testing the proposed network are BSD68 datasets and Set12 datasets.   
+There are other options you can choose.Please refer to dataset.py.
 
 ## Experimental Results
 ![psnr_result](https://user-images.githubusercontent.com/59470033/104938297-38830380-59f2-11eb-8596-d50717bfb0f9.png)
