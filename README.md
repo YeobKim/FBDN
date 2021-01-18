@@ -9,15 +9,14 @@ In this experiment, we propose Image Denoising neural networks using Feature Ext
 ## Proposed Algorithm
 ![Network](https://user-images.githubusercontent.com/59470033/104935503-ae856b80-59ee-11eb-8b5d-b55fa56e6b63.png)
 ![FeatureBlock](https://user-images.githubusercontent.com/59470033/104937381-0a50f400-59f1-11eb-9ff0-3f012800e8f5.png)
-![Layer1_Result](https://user-images.githubusercontent.com/59470033/104937387-0d4be480-59f1-11eb-982c-f443e82c7b42.png)
-![Layer2_Result](https://user-images.githubusercontent.com/59470033/104937397-0f15a800-59f1-11eb-9aff-3e426bf89d03.png)
+![Layer1_Result](https://user-images.githubusercontent.com/59470033/104937387-0d4be480-59f1-11eb-982c-f443e82c7b42.png)![Layer2_Result](https://user-images.githubusercontent.com/59470033/104937397-0f15a800-59f1-11eb-9aff-3e426bf89d03.png)
 
 ## Dataset
 We used the [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) datasets for training the proposed network.
-Furthermore, the datasets for testing the proposed network are
-BSD68 datasets and Set12 datasets.
-There are other options you can choose.
-Please refer to dataset.py.
+
+Furthermore, the datasets for testing the proposed network areBSD68 datasets and Set12 datasets.
+
+There are other options you can choose.Please refer to dataset.py.
 
 질문 혹은 문의사항은 athurk94111@gmail.com 으로 해주시면 감사합니다.
 
