@@ -23,5 +23,5 @@ There are other options you can choose.Please refer to dataset.py.
 If you have any questions, please contact athurk94111@gmail.com.
 
 ## Experimental Results
-![psnr_result](https://user-images.githubusercontent.com/59470033/104938154-040f4780-59f2-11eb-955b-720852ab6cd7.png)
+![psnr_result](https://user-images.githubusercontent.com/59470033/104938297-38830380-59f2-11eb-8596-d50717bfb0f9.png)
 
