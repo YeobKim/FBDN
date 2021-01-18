@@ -20,6 +20,5 @@ Furthermore, the datasets for testing the proposed network areBSD68 datasets and
 
 There are other options you can choose.Please refer to dataset.py.
 
-질문 혹은 문의사항은 athurk94111@gmail.com 으로 해주시면 감사합니다.
+If you have any questions, please contact athurk94111@gmail.com.
 
-논문 작성 완료 후 결과 이미지와 전체 아이디어가 게시될 예정입니다.
