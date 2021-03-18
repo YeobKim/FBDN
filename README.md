@@ -2,6 +2,7 @@
 Residual Learning Using Features Block and Dual Network for Image Denoising (IPIU 2021)
 
 This is a PyTorch implementation of the [33nd Workshop on Image Processing and Image Understanding (IPIU 2021)](http://www.ipiu.or.kr/2021/index.php) paper, [Residual Learning Using Features Block and Dual Network for Image Denoising](https://github.com/YeobKim/FBDN/blob/main/Residual%20Learning%20Using%20Features%20Block%20and%20Dual%20Network%20for%20Image%20Denoising%20(IPIU%202021).pdf)
+
 This paper won the Encouragement Award at IPIU2021.
 
 ## Abstract
