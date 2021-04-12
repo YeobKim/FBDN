@@ -30,7 +30,9 @@ Furthermore, the datasets for testing the proposed network are BSD68 datasets an
 There are other options you can choose. Please refer to dataset.py.
 
 ## Experimental Results
+* psnr result
 ![psnr_result](https://user-images.githubusercontent.com/59470033/104938297-38830380-59f2-11eb-8596-d50717bfb0f9.png)
+* image result
 ![image_result](https://user-images.githubusercontent.com/59470033/104938965-28b7ef00-59f3-11eb-8193-65e24c3ce87a.png)
 
 ## Contact
