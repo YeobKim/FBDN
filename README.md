@@ -2,10 +2,10 @@
 Residual Learning Using Features Block and Dual Network for Image Denoising (IPIU 2021)
 
 ```
-@article{kim2020image_denoising,
+@article{kim2020fbdn,
     author =       {Kim, Jaeyeob and Lee, kyungjun and Jeong, Jechang},
     title =        {Residual Learning Using Features Block and Dual Network for Image Denoising},
-    journal =      {IPIU2021},
+    journal =      {33nd Workshop on Image Processing and Image Understanding (IPIU 2021)},
     year =         "2021",
 }
 ```
