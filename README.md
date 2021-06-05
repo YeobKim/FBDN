@@ -14,6 +14,8 @@ This is a PyTorch implementation of the [33nd Workshop on Image Processing and I
 
 This paper won the Encouragement Award at IPIU2021.
 
+“This project is licensed under the terms of the MIT license.”
+
 ## Abstract
 In this experiment, we propose Image Denoising neural networks using Feature Extracting Block and Dual Network among Convolutional Neural Networks (CNN). The proposed network has a feature extraction block that extracts features of input images, and a structure that combines input and extracted features to share two results across a dual-path network. Experiments are conducted by eliminating noise by using images added with three levels of Additive White Gaussian Noise (AWGN) with noise levels of 15, 25, and 50 as input to the network. Experimental results show that the proposed network showed higher results than existing algorithms and networks in the objective evaluation, Peak Signal-to-Noise Ratio (PSNR), and that it also preserves in-image detail more sharply than existing algorithms and networks in the subjective evaluation.
 
